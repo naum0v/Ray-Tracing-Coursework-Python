@@ -26,3 +26,6 @@
 2. Установите зависимости:
    ```bash
    pip install -r requirements.txt
+3. Перейдите в папку src/ и запустите нужный этап (например, финальный):
+   ```bash
+   python step_11_final.py
